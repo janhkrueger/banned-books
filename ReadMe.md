@@ -41,3 +41,13 @@
 
 #### Sources
 * https://news.northeastern.edu/2022/03/22/banned-books/
+
+### Florida
+* Two Boys Kissing, David Levithan
+* The Kite Runner, Khaled Hosseini
+* I Am Jazz, Jessica Herthel
+* All Boys Aren't Blue, George M. Johnson
+* The 1619 Project: A New Origin Story. Nikole Hannah-Jones
+
+#### Sources
+* https://news.northeastern.edu/2022/03/22/banned-books/
