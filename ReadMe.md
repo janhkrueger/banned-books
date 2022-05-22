@@ -22,7 +22,7 @@
 #### Sources
 * https://news.northeastern.edu/2022/03/22/banned-books/
 
-### Atizona
+### Arizona
 * The Color Purple, Alice Walker
 * Mexican Whiteboy, Matt de la Peña
 * I Know Why the Caged Bird Sings, Maya Angelou
