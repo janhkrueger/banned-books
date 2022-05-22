@@ -21,3 +21,16 @@
 
 #### Sources
 * https://news.northeastern.edu/2022/03/22/banned-books/
+
+### Atizona
+* The Color Purple, Alice Walker
+* Mexican Whiteboy, Matt de la Peña
+* I Know Why the Caged Bird Sings, Maya Angelou
+* The Great Gatsby, F. Scott Fitzgerald
+* 1984, George Orwell
+
+
+
+
+#### Sources
+* https://news.northeastern.edu/2022/03/22/banned-books/
